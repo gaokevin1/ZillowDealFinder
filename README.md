@@ -1,0 +1,4 @@
+# Zillow Deal Finder
+
+### How it Works
+You will input a city and search radius, and using a Zillow Web Services API Key, the program will search for all for sale listings, gather information regarding property tax, insurance, and current interest rates from AimLoan.com (the lowest rates that I can regularly find) to compare what the cost of servicing the property will be with what the Rent Zestimate is. I will also include a margin of error for the rent zestimate, along with other parameters which the user can edit, such as vacancy rates and so. In future versions of the application, vacancy rates and other metrics can also be taken as an average in the area from the internet as well.
